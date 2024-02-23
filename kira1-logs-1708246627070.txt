@@ -1,0 +1,10 @@
+2024-02-18T08:56:21.848300+00:00 app[worker.1]: 0|index  |   schema: undefined,
+2024-02-18T08:56:21.848308+00:00 app[worker.1]: 0|index  |   table: undefined,
+2024-02-18T08:56:21.848327+00:00 app[worker.1]: 0|index  |   column: undefined,
+2024-02-18T08:56:21.848344+00:00 app[worker.1]: 0|index  |   dataType: undefined,
+2024-02-18T08:56:21.848352+00:00 app[worker.1]: 0|index  |   constraint: undefined,
+2024-02-18T08:56:21.848360+00:00 app[worker.1]: 0|index  |   file: 'miscinit.c',
+2024-02-18T08:56:21.848368+00:00 app[worker.1]: 0|index  |   line: '779',
+2024-02-18T08:56:21.848377+00:00 app[worker.1]: 0|index  |   routine: 'InitializeSessionUserId'
+2024-02-18T08:56:21.848386+00:00 app[worker.1]: 0|index  | }
+2024-02-18T08:56:21.852861+00:00 app[worker.1]: 0|index  | La table 'stickcmd' a été créée avec succès.
